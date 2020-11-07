@@ -1,3 +1,3 @@
 module.exports = {
-    userURI : 'mongodb+srv://krsailesh:sail9546221054@cluster0.vgbfg.mongodb.net/my_database?retryWrites=true&w=majority'
+    userURI : 'mongodb+srv://krsailesh:<PASSWORD>@cluster0.vgbfg.mongodb.net/<DATABASE_NAME>?retryWrites=true&w=majority'
 }
